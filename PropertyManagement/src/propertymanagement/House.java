@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Real Estate Management Software v0.1
+ * @author Harrysn Dao
  */
 package propertymanagement;
 
